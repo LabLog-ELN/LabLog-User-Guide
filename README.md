@@ -1,4 +1,7 @@
-**Introduction**
+**About this repository**
+This public repository stores a version tracked copy of the LabLog User Guide.
+
+**What is LabLog?**
 
 LabLog is an electronic lab notebook (ELN) that can replace or enhance the traditional physical paper based notebook to store all laboratory related information including but not limited to protocols, notes, raw data, and consumable details. Electronic notebooks like LabLog are considered legal documents that can be used in regulated environments or in academic research labs. ELNs make life in the lab run more smoothly increasing efficiency and allowing teams to work together in an organized fashion. LabLog utilizes modular features such as methods, tasks, and inventory for file management, lab notes, team management, signatures, and planning projects. The search option lets users narrow down and find documents, inventory items, or notes that are related. Tags give you the flexibility to group documents together for the search. From creating protocols to performing laboratory tasks, and everything in between — LabLog has got you covered.
 
